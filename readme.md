@@ -4,4 +4,4 @@
 - Change to the directory where the script is located: `cd config-scripts`
 - Make the script executable: `chmod +x infra-tools.sh`
 - Run the script as a superuser: `sudo .infra-tools.sh`
-Disclaimer: some tools are outdated
+Disclaimer: some tools might be outdated
